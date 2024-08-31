@@ -1,0 +1,13 @@
+Enter number of subjects:5
+Enter marks for subject 1: 50
+Enter marks for subject 2: 60
+Enter marks for subject 3: 70
+Enter marks for subject 4: 80
+Enter marks for subject 5: 50
+--------------------------------------
+Your Results are:
+Total Marks obtained by 5 subjects:310
+Percentage:62.0%
+Grade:B+
+
+=== Code Execution Successful ===
